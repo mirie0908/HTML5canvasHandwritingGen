@@ -1,0 +1,5 @@
+table.sample1 {width: 50%; border: solid 1px #000000; border-collapse: collapse;}
+table.sample2 {border: solid 1px #000000; border-collapse: separate;}
+td.sample {border: solid 1px #ff0000}
+th.sample {border: solid 1px #ff0000}
+canvas {position: absolute;}
